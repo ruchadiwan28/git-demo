@@ -1,4 +1,4 @@
 # git-demo
 This is my first git repo
 <br>
-Author-Rucha Diwan(Student)
+Author-Rucha Diwan
